@@ -138,5 +138,3 @@ COMPILER = "Amiblitz3:Amiblitz3"
   tail -f /tmp/amiga_ftp_server.log   # FTP logs
   tail -f /tmp/amiga_watch.log        # File watcher logs
   ```
-</｜｜DSML｜｜parameter>
-</write_to_file>
