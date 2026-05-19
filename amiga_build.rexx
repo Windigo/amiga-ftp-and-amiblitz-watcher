@@ -89,5 +89,3 @@ SHOWDIR:
         RETURN CONTENT
     END
     RETURN ""
-</｜｜DSML｜｜parameter>
-</write_to_file>
