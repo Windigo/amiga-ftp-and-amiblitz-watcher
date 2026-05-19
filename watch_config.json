@@ -1,0 +1,28 @@
+{
+  "ftp": {
+    "host": "192.168.68.70",
+    "port": 21,
+    "user": "amiga",
+    "password": "amiga",
+    "remote_dir": "Projects/MyBlitzProject"
+  },
+  "amiga": {
+    "signal_port": 9999,
+    "signal_host": "192.168.68.70",
+    "compile_command": "amiblitz3 compile"
+  },
+  "watch": {
+    "extensions": [
+      ".bb2",
+      ".ab3",
+      ".asm",
+      ".inc",
+      ".bm"
+    ],
+    "ignore_dirs": [
+      ".git",
+      "__pycache__",
+      ".venv"
+    ]
+  }
+}
