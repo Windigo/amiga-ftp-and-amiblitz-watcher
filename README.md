@@ -59,7 +59,7 @@ De eerste keer wordt `watch_config.json` aangemaakt. Pas daarin aan:
 ```json
 {
     "ftp": {
-        "host": "192.168.68.70",       // Amiga IP
+        "host": "192.168.68.70",
         "port": 21,
         "user": "amiga",
         "password": "amiga",
